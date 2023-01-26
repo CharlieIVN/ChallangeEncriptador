@@ -120,9 +120,8 @@ section{
     font-size: 25px;
     font-weight:normal;
     text-align: center;
-    line-height: 500px;
-    outline: none;
     border: none;
+    outline: none;
     resize: none;
     margin-top: 30px;
     margin-left:5%
@@ -153,6 +152,7 @@ section{
     }
     
 .copybutton{
+    display: none;
     font-size:25px ;
     color: #0A3871;;
     width: 250px;
