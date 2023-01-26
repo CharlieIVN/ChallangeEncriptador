@@ -196,6 +196,9 @@ section{
     }
     .logolinked {
         width: 60px;
-        height: 60px;
+        height: 60px;   
+    }
+
+    @media screen and {(max-width:480px;)
         
     }
